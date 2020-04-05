@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="Enter_message">Введите сообщение</string>
+    <string name="send">Send</string>
+    <string name="futher">Далее</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="question_1">Minsk is the capital of Belarus?</string>
+    <string name="question_2">Helsinki is the capital of Russia?</string>
+    <string name="question_3">Moscow is the capital of Russia?</string>
+    <string name="question_4">Warsaw is the capital of Belarus?</string>
+    <string name="question_5">Brasilia is the capital of Brazil?</string>
+    <string name="question_6">London is the capital of Brazil?</string>
+    <string name="question_7">Athens is the capital of Greece?</string>
+    <string name="question_8">Cairo is the capital of Greece?</string>
+    <string name="question_9">Beijing is the capital of China?</string>
+    <string name="question_10">Tokyo is the capital of China?</string>
+</resources>
